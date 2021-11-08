@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/static/js/main.c2d1a642.chunk.js",
+    "main.js.map": "/static/js/main.c2d1a642.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b1334f23.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b1334f23.js.map",
+    "static/css/2.fe61e19b.chunk.css": "/static/css/2.fe61e19b.chunk.css",
+    "static/js/2.1891874e.chunk.js": "/static/js/2.1891874e.chunk.js",
+    "static/js/2.1891874e.chunk.js.map": "/static/js/2.1891874e.chunk.js.map",
+    "static/js/3.6b035c62.chunk.js": "/static/js/3.6b035c62.chunk.js",
+    "static/js/3.6b035c62.chunk.js.map": "/static/js/3.6b035c62.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.fe61e19b.chunk.css.map": "/static/css/2.fe61e19b.chunk.css.map",
+    "static/js/2.1891874e.chunk.js.LICENSE.txt": "/static/js/2.1891874e.chunk.js.LICENSE.txt",
+    "static/media/durian.bcae9f31.jpg": "/static/media/durian.bcae9f31.jpg",
+    "static/media/durian.ed94e4ec.png": "/static/media/durian.ed94e4ec.png",
+    "static/media/logo.89a9673b.png": "/static/media/logo.89a9673b.png",
+    "static/media/scene.15acb824.jpg": "/static/media/scene.15acb824.jpg",
+    "static/media/sns.11026aca.PNG": "/static/media/sns.11026aca.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1334f23.js",
+    "static/css/2.fe61e19b.chunk.css",
+    "static/js/2.1891874e.chunk.js",
+    "static/js/main.c2d1a642.chunk.js"
+  ]
+}
