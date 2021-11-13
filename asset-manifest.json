@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1c613a68.chunk.css",
-    "main.js": "/static/js/main.e01f4b39.chunk.js",
-    "main.js.map": "/static/js/main.e01f4b39.chunk.js.map",
+    "main.js": "/static/js/main.3c426f6c.chunk.js",
+    "main.js.map": "/static/js/main.3c426f6c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f72d6709.js",
     "runtime-main.js.map": "/static/js/runtime-main.f72d6709.js.map",
     "static/css/2.fe61e19b.chunk.css": "/static/css/2.fe61e19b.chunk.css",
@@ -17,15 +17,16 @@
     "static/media/durian.bcae9f31.jpg": "/static/media/durian.bcae9f31.jpg",
     "static/media/durian.ed94e4ec.png": "/static/media/durian.ed94e4ec.png",
     "static/media/duriannobg.b0717d8b.png": "/static/media/duriannobg.b0717d8b.png",
-    "static/media/logo.89a9673b.png": "/static/media/logo.89a9673b.png",
+    "static/media/home1.4058d358.png": "/static/media/home1.4058d358.png",
+    "static/media/logo.6f8bdfde.png": "/static/media/logo.6f8bdfde.png",
     "static/media/scene.15acb824.jpg": "/static/media/scene.15acb824.jpg",
-    "static/media/sns.11026aca.PNG": "/static/media/sns.11026aca.PNG"
+    "static/media/sns.ed907304.PNG": "/static/media/sns.ed907304.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.f72d6709.js",
     "static/css/2.fe61e19b.chunk.css",
     "static/js/2.b635cf47.chunk.js",
     "static/css/main.1c613a68.chunk.css",
-    "static/js/main.e01f4b39.chunk.js"
+    "static/js/main.3c426f6c.chunk.js"
   ]
 }
